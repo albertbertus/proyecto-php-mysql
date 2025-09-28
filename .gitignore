@@ -1,0 +1,30 @@
+# PHP
+vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+
+# IDEs and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+
+# Uploaded files, cache
+storage/
+cache/
+
+# Local config with DB credentials
+includes/config.php
+
+# Node
+node_modules/
+
+# Misc
+*.zip
