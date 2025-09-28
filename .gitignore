@@ -21,7 +21,7 @@ storage/
 cache/
 
 # Local config with DB credentials
-includes/config.php
+.env
 
 # Node
 node_modules/
